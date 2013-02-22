@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/julien/projet/template/Libraries/FreeRTOS_STM32/FreeRTOS-Plus-IO'
-let g:netrw_dirhist_2='/home/julien/projet/template/Libraries/FreeRTOS_STM32/FreeRTOS-Plus-IO/Include'
-let g:netrw_dirhist_3='/home/julien/projet/template/Libraries/FreeRTOS_STM32/FreeRTOS-Plus-IO'
-let g:netrw_dirhist_4='/home/julien/projet/template/Libraries/FreeRTOS_STM32'
-let g:netrw_dirhist_5='/home/julien/projet/test/libconfigxml'
-let g:netrw_dirhist_6='/home/julien/projet/lns/carte_basse'
-let g:netrw_dirhist_7='/home/julien'
