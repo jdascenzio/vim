@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+SEM_FAILED	/usr/include/x86_64-linux-gnu/bits/semaphore.h	34;"	d
+_SEMAPHORE_H	/usr/include/semaphore.h	20;"	d
+__SIZEOF_SEM_T	/usr/include/x86_64-linux-gnu/bits/semaphore.h	27;"	d
+__SIZEOF_SEM_T	/usr/include/x86_64-linux-gnu/bits/semaphore.h	29;"	d
+__align	/usr/include/x86_64-linux-gnu/bits/semaphore.h	/^  long int __align;$/;"	m	union:__anon1	access:public
+__anon1::__align	/usr/include/x86_64-linux-gnu/bits/semaphore.h	/^  long int __align;$/;"	m	union:__anon1	access:public
+__anon1::__size	/usr/include/x86_64-linux-gnu/bits/semaphore.h	/^  char __size[__SIZEOF_SEM_T];$/;"	m	union:__anon1	access:public
+__need_timespec	/usr/include/semaphore.h	25;"	d
+__size	/usr/include/x86_64-linux-gnu/bits/semaphore.h	/^  char __size[__SIZEOF_SEM_T];$/;"	m	union:__anon1	access:public
+sem_t	/usr/include/x86_64-linux-gnu/bits/semaphore.h	/^} sem_t;$/;"	t	typeref:union:__anon1
+sem_timedwait	/usr/include/semaphore.h	/^extern int sem_timedwait (sem_t *__restrict __sem,$/;"	p	signature:(sem_t *__restrict __sem, __const struct timespec *__restrict __abstime)
+sem_wait	/usr/include/semaphore.h	/^extern int sem_wait (sem_t *__sem);$/;"	p	signature:(sem_t *__sem)
